@@ -3,7 +3,7 @@ Flask REST API for a fictional Sports Equipment Shop
 
 This API uses a local test data of products.
 
-Running on http://127.0.0.1:5000/
+After starting the Python code, by default it's running on http://127.0.0.1:5000/
 
 #List of the product cataloge:
 GET /api/v1/resources/products/all
